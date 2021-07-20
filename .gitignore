@@ -8,11 +8,11 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+UsersDB.iml
+pom.xml
 .idea
 .idea*
 .idea**
-UsersDB.iml
-pom.xml
 
 # Generated files
 .idea/**/contentModel.xml
